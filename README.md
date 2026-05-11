@@ -15,7 +15,7 @@ Cloud & Storage
 Pipeline & Orchestration
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-1D9E75?style=flat)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+!
 ---
 Featured projects
 Project	What it does	Tech
@@ -23,11 +23,7 @@ sales-etl-pipeline	End-to-end ETL: CSV → clean → AWS S3	Python, pandas, boto
 sql-interview-solutions	50+ SQL problems with explanations	SQL, PostgreSQL
 aws-s3-data-pipeline	PySpark pipeline with S3 partitioned load	PySpark, AWS S3
 ---
-A little about me
-8 years of experience building data pipelines across different industries
-Passionate about clean, well-documented, maintainable data engineering code
-Returning to work after a career break — refreshed, motivated, and ready to contribute
-Based in Mumbai, India · Open to hybrid and WFH roles
+
 ---
 Connect with me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
