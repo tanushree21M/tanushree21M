@@ -15,7 +15,6 @@ Cloud & Storage
 Pipeline & Orchestration
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-1D9E75?style=flat)
-!
 ---
 Featured projects
 Project	What it does	Tech
